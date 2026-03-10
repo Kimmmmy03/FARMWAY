@@ -1,0 +1,49 @@
+{
+    "expo": {
+        "name": "Farmway",
+        "slug": "farmway",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "scheme": "farmway",
+        "userInterfaceStyle": "automatic",
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "my.farmway.app"
+        },
+        "android": {
+            "package": "my.farmway.app",
+            "permissions": [
+                "ACCESS_FINE_LOCATION",
+                "CAMERA",
+                "READ_EXTERNAL_STORAGE"
+            ]
+        },
+        "web": {
+            "bundler": "metro",
+            "output": "static"
+        },
+        "plugins": [
+            "expo-router",
+            "expo-font",
+            "expo-secure-store",
+            [
+                "expo-image-picker",
+                {
+                    "photosPermission": "Allow Farmway to access your photos."
+                }
+            ],
+            [
+                "expo-location",
+                {
+                    "locationWhenInUsePermission": "Allow Farmway to use your location for nearby produce."
+                }
+            ]
+        ],
+        "experiments": {
+            "typedRoutes": true
+        }
+    }
+}

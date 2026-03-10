@@ -1,0 +1,58 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Database
+farmway-backend/data/
+
+# Build & cache
+build/
+dist/
+.expo/
+*.tsbuildinfo
+
+# Flutter
+farmway_flutter/.dart_tool/
+farmway_flutter/build/
+farmway_flutter/.flutter-plugins
+farmway_flutter/.flutter-plugins-dependencies
+farmway_flutter/android/.gradle/
+farmway_flutter/android/app/build/
+farmway_flutter/android/local.properties
+farmway_flutter/.packages
+
+# React Native (legacy)
+farmway-app/.expo/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Uploads
+farmway-backend/uploads/*
+!farmway-backend/uploads/.gitkeep
+
+# Claude
+.claude/
+
+# Misc
+*.tmp
+*.bak
