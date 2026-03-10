@@ -121,15 +121,7 @@ bash start-local.sh
 
 This script automatically sets up the database, starts the backend, and launches the Expo dev server.
 
-### Demo Accounts
 
-| Role | Email | Password |
-| :--- | :--- | :--- |
-| Admin | `admin@farmway.my` | `admin1234` |
-| Farmer | `farmer@farmway.my` | `farmer123` |
-| Buyer | `buyer@farmway.my` | `buyer123` |
-
----
 
 ## Project Structure
 
@@ -364,77 +356,34 @@ FARMWAY/
 ## Screenshots
 
 ### Login Screen
-<!-- Add your screenshot here -->
-<!-- ![Login Screen](screenshots/login.png) -->
-`📸 Add screenshot: screenshots/login.png`
+<img width="355" height="795" alt="Screenshot 2026-03-10 140332" src="https://github.com/user-attachments/assets/82694158-0ea0-45ca-98f7-98def3660ff1" />
 
 ### Buyer - Marketplace
-<!-- Add your screenshot here -->
-<!-- ![Marketplace](screenshots/marketplace.png) -->
-`📸 Add screenshot: screenshots/marketplace.png`
-
-### Buyer - Categories
-<!-- Add your screenshot here -->
-<!-- ![Categories](screenshots/categories.png) -->
-`📸 Add screenshot: screenshots/categories.png`
+<img width="384" height="892" alt="Screenshot 2026-03-10 155918" src="https://github.com/user-attachments/assets/fc85c84a-d5dc-4b16-85d3-da9ded808005" />
 
 ### Buyer - Orders
-<!-- Add your screenshot here -->
-<!-- ![Orders](screenshots/buyer_orders.png) -->
-`📸 Add screenshot: screenshots/buyer_orders.png`
+<img width="352" height="824" alt="Screenshot 2026-03-10 140659" src="https://github.com/user-attachments/assets/3f274978-d952-4e2a-a67f-458cb85697fd" />
 
 ### Buyer - Profile
-<!-- Add your screenshot here -->
-<!-- ![Buyer Profile](screenshots/buyer_profile.png) -->
-`📸 Add screenshot: screenshots/buyer_profile.png`
+<img width="350" height="822" alt="Screenshot 2026-03-10 140713" src="https://github.com/user-attachments/assets/c951b63f-0701-442e-a0c6-55104d4da872" />
 
 ### Farmer - Dashboard
-<!-- Add your screenshot here -->
-<!-- ![Farmer Dashboard](screenshots/farmer_dashboard.png) -->
-`📸 Add screenshot: screenshots/farmer_dashboard.png`
+
+<img width="386" height="893" alt="Screenshot 2026-03-10 160044" src="https://github.com/user-attachments/assets/71214281-016c-4ea6-978b-7ef60869e7b0" />
 
 ### Farmer - Products
-<!-- Add your screenshot here -->
-<!-- ![Farmer Products](screenshots/farmer_products.png) -->
-`📸 Add screenshot: screenshots/farmer_products.png`
+
+<img width="383" height="892" alt="Screenshot 2026-03-10 160106" src="https://github.com/user-attachments/assets/0255c749-c590-435e-bc7f-d9bb35222b2b" />
+
+### Buyer - Orders
+<img width="353" height="821" alt="Screenshot 2026-03-10 140642" src="https://github.com/user-attachments/assets/5e5a98f2-66ba-4a1c-9cc8-1a86442cb08b" />
 
 ### Farmer - Profile
-<!-- Add your screenshot here -->
-<!-- ![Farmer Profile](screenshots/farmer_profile.png) -->
-`📸 Add screenshot: screenshots/farmer_profile.png`
 
-> **How to add screenshots:**
-> 1. Create a `screenshots/` folder in the project root
-> 2. Take screenshots from the emulator and save them with the filenames above
-> 3. Uncomment the `![...]` lines and remove the `📸` placeholder lines
+<img width="352" height="819" alt="Screenshot 2026-03-10 140648" src="https://github.com/user-attachments/assets/23636d57-b381-4e88-93b7-53134194fa7e" />
 
 ---
 
-## Members Task Distribution
-
-| Member | Tasks |
-| :--- | :--- |
-| **Akmal Hakimi Bin Abd Rashid** | Backend API development, Authentication system, Database architecture, Cloud deployment |
-| **Aziz Bin Mohammad Azman** | UI/UX design, Frontend development, Digital branding, User experience |
-| **Amir Haziq Bin Azmira** | System integration, IoT features, Cloud infrastructure, Data management |
-| **Aliya Fatihah Binti Abdul Rahman** | Business strategy, Marketing, Project management, Documentation |
-
----
-
-## Company Information
-
-**FARMWAY SDN. BHD.**
-
-| | |
-| :--- | :--- |
-| **Address** | 1016, Jalan Sultan Ismail, Bandar Wawasan, 50250 Kuala Lumpur |
-| **Showroom** | 5th Floor, Lot 5-31, Quill City Mall, Jln Sultan Ismail, 54250 KL |
-| **Email** | Farmway@gmail.com |
-| **Phone** | 03-5245-2456 |
-| **Office Hours** | 8:00 AM - 5:30 PM |
-| **Website** | www.Farmway.com |
-
----
 
 ## License
 
