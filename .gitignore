@@ -50,8 +50,7 @@ logs/
 farmway-backend/uploads/*
 !farmway-backend/uploads/.gitkeep
 
-# Claude
-.claude/
+
 
 # Misc
 *.tmp
